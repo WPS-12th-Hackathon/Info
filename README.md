@@ -2,10 +2,13 @@
 
 ## 조 편성 및 프로젝트
 
-### Sample조 ([이한영](https://github.com/leehanyeong))
+### 3조 ([문경호](https://github.com/moonpeter))
 
 **프로젝트 주제**  
-해커톤 프로젝트 설명
+teachablemachine learning을 이용한 닮은꼴 찾기 앱
+teachbalemachine learning으로 모델 생성하고, 장고 서버를 이용해서 앱 동작 구현 (회원가입/로그인/결과 페이지/코멘트 기능 등등)
+
+
 
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
