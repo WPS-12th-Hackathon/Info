@@ -19,4 +19,4 @@
 ### 4조 (권은비, 허범영, 김도오)
 
 ### 5조 (손영균, 권효진, 박홍빈)
-- [GitHub 저장소](https://github.com/moorekwon/hackathon.git)
+- [권효진(moorekwon) GitHub 저장소](https://github.com/moorekwon/hackathon.git)
