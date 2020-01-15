@@ -2,10 +2,10 @@
 
 ## 조 편성 및 프로젝트
 
-### Sample조 ([이한영](https://github.com/leehanyeong))
+### Team5_Travel PhotoBook 
 
 **프로젝트 주제**  
-해커톤 프로젝트 설명
+개요: 추억을 남길 수 있는 포토북을 만들어 드립니다
 
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
@@ -18,4 +18,4 @@
 
 ### 4조 (권은비, 허범영, 김도오)
 
-### 5조 (손영균, 권효진, 박홍빈)
+### 5조 (손영균, 권효진, [박홍빈](https://github.com/parkhongbeen))
