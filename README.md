@@ -5,7 +5,7 @@
 ### Sample조 ([이한영](https://github.com/leehanyeong))
 
 **프로젝트 주제**  
-해커톤 프로젝트 설명
+해커톤 프로젝트 설명 + Git설명
 
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
