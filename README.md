@@ -10,7 +10,7 @@
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
 
-### 1조 (오형근, 강두현)
+### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현)
 
 ### 2조 (신재민, 정수지, 민지호)
 
