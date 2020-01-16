@@ -22,6 +22,6 @@ teachbalemachine learning으로 모델 생성하고, 장고 서버를 이용해�
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
 
-### 4조 (권은비, 허범영, 김도오)
+### 4조 ([권은비](https://github.com/eunbiviakwon), 허범영, 김도오)
 
 ### 5조 ([손영균](https://github.com/Suellaiy), 권효진, 박홍빈)
