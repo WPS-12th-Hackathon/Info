@@ -2,7 +2,13 @@
 
 ## 조 편성 및 프로젝트
 
-### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현(https://github.com/djangojeng-e))
+### 1조 ([오형근](https://github.com/hyeonggeun2), [강두현](https://github.com/djangojeng-e))
+
+**what_to_eat**
+> 오늘 뭐 먹지?
+
+- [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Team1_what_eat)
+- [결과물 링크 (runserver)](http://)
 
 ### 2조 ([신재민](https://github.com/shinjam), [정수지](https://github.com/rarlala), 민지호)
 
