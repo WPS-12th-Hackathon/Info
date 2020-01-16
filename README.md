@@ -20,13 +20,16 @@
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
 
 
-### 3조 (신동현, [문경호](https://github.com/moonpeter), 이도현)
+### 3조 ([신동현](https://github.com/qu3vipon), [문경호](https://github.com/moonpeter), 이도현)
 
 **프로젝트 주제**  
-teachablemachine learning을 이용한 닮은꼴 찾기 앱  
-teachbalemachine learning으로 모델 생성하고, 장고 서버를 이용해서 앱 동작 구현 (회원가입/로그인/결과 페이지/코멘트 기능 등등)
+> 해커톤 참가자들이 프로젝트를 평가해서 프로젝트 별 평균 점수 및 순위를 산출하는 프로그램
+* 회원가입 : 실명, 아이디, 비밀번호 사용 (실명으로 유효성 검사)
+* 로그인 : 아이디, 비밀번호
+* 평가 : 각 프로젝트에 대해 항목 별로 점수 평가 + 코멘트 (본인이 속한 프로젝트는 평가 불가)
+* 결과 : 프로젝트 별 평균 점수 및 순위 표시 (항목 별 순위도 확인 가능)
 
-- [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
+- [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Team3_face_recognization)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
 
 ### 4조 ([권은비](https://github.com/eunbiviakwon), [허범영](https://github.com/hbyyy), [김도오](https://github.com/kimdooh2019))
