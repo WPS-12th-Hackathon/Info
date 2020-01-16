@@ -2,7 +2,7 @@
 
 ## 조 편성 및 프로젝트
 
-### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현)
+### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현(https://github.com/djangojeng-e))
 
 ### 2조 ([신재민](https://github.com/shinjam), [정수지](https://github.com/rarlala), 민지호)
 
@@ -11,6 +11,7 @@
 
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Team2_fastweet)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
+
 
 ### 3조 (신동현, [문경호](https://github.com/moonpeter), 이도현)
 
