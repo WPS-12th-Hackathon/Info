@@ -4,9 +4,10 @@
 
 ### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현(https://github.com/djangojeng-e))
 
-### 2조 ([신재민](https://github.com/shinjam), [정수지](https://github.com/rarlala), 민지호)
+### 2조 ([신재민](https://github.com/shinjam), [정수지](https://github.com/rarlala), [민지호](https://github.com/min-jyo))
 
 **Fastweet**
+
 > 장고로 만들어보는 Twitter
 
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Team2_fastweet)
