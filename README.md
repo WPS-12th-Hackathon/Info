@@ -2,7 +2,7 @@
 
 ## 조 편성 및 프로젝트
 
-### Sample조 ([이한영](https://github.com/leehanyeong))
+### Sample조 ([이도현](https://github.com/eqfwcev123))
 
 **프로젝트 주제**  
 해커톤 프로젝트 설명
