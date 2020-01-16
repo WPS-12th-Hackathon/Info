@@ -2,7 +2,7 @@
 
 ## 조 편성 및 프로젝트
 
-### 1조 (오형근, 강두현)
+### 1조 ([오형근](https://github.com/hyeonggeun2), 강두현)
 
 ### 2조 ([신재민](https://github.com/shinjam), [정수지](https://github.com/rarlala), 민지호)
 
