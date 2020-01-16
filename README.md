@@ -25,3 +25,5 @@ teachbalemachine learning으로 모델 생성하고, 장고 서버를 이용해�
 ### 4조 ([권은비](https://github.com/eunbiviakwon), 허범영, 김도오)
 
 ### 5조 ([손영균](https://github.com/Suellaiy), 권효진, 박홍빈)
+
+- [권효진(moorekwon) GitHub 저장소](https://github.com/moorekwon/hackathon.git)
