@@ -28,7 +28,15 @@ teachbalemachine learning으로 모델 생성하고, 장고 서버를 이용해�
 - [GitHub 저장소](https://github.com/WPS-12th-Hackathon/Info)
 - [결과물 링크 (runserver)](http://172.16.1.116:8000)
 
-### 4조 ([권은비](https://github.com/eunbiviakwon), 허범영, 김도오)
+### 4조 ([권은비](https://github.com/eunbiviakwon), [허범영](https://github.com/hbyyy), [김도오](https://github.com/kimdooh2019))
+
+**프로젝트 주제**
+> 도서 대출 어플리케이션
+- 장고를 이용하여 교실에 있는 책을 대여, 반납할 수 있는 서비스 구현
+- 기능
+	- 회원가입, 로그인
+	- 책 대여, 반납
+	- 책 대여 예약
 
 ### 5조 ([손영균](https://github.com/Suellaiy), 권효진, 박홍빈)
 
