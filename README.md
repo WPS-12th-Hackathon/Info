@@ -18,5 +18,8 @@
 
 ### 4조 (권은비, 허범영, 김도오)
 
-### 5조 (손영균, 권효진, 박홍빈)
-- [권효진(moorekwon) GitHub 저장소](https://github.com/moorekwon/hackathon.git)
+### 5조 (손영균, [권효진](https://github.com/moorekwon/hackathon.git), 박홍빈)
+**프로젝트 주제**
+해커턴 프로젝트 설명: 여행 포토북
+	- 추억을 남길 수 있는 포토북을 만들어주는 앱
+	- 배경 색, 사진 및 페이지 템플릿 등 사용자가 원하는데로 지정할 수 있도록 커스터마이징
