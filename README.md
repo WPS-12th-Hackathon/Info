@@ -2,6 +2,9 @@
 
 ## 조 편성 및 프로젝트
 
+**프로젝트 주제**  
+개요: 추억을 남길 수 있는 포토북을 만들어 드립니다
+
 ### 1조 ([오형근](https://github.com/hyeonggeun2), [강두현](https://github.com/djangojeng-e))
 
 **what_to_eat**
@@ -42,6 +45,5 @@
 	- 책 대여, 반납
 	- 책 대여 예약
 
-### 5조 ([손영균](https://github.com/Suellaiy), 권효진, 박홍빈)
-
+### 5조 ([손영균](https://github.com/Suellaiy), 권효진, [박홍빈](https://github.com/parkhongbeen))
 - [권효진(moorekwon) GitHub 저장소](https://github.com/moorekwon/hackathon.git)
